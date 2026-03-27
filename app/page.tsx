@@ -355,7 +355,7 @@ export default function Page() {
   }, []);
 
   return (
-    <div className="relative h-screen w-screen overflow-hidden bg-white font-sans">
+    <div className="relative h-screen w-screen overflow-hidden bg-white font-sans text-black">
       <LandingView
         onEnter={handleEnter}
         isActive={viewActive}
