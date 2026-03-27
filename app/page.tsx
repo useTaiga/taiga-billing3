@@ -126,7 +126,7 @@ function LandingView({
         <div className="hidden text-muted-foreground sm:block">
           AI-POWERED BILLING
         </div>
-        <div className="text-muted-foreground">EST. 2024</div>
+        <div className="text-muted-foreground">EST. 2026</div>
       </nav>
 
       <div className="z-10 max-w-xl">
@@ -138,7 +138,7 @@ function LandingView({
           BILLING
         </h2>
         <p className="max-w-[40ch] text-sm uppercase leading-relaxed text-muted-foreground md:text-base">
-          FULL-STACK AI THAT ELIMINATES DENIALS, ACCELERATES REIMBURSEMENTS, AND
+          END-TO-END AI THAT ELIMINATES DENIALS, ACCELERATES REIMBURSEMENTS, AND
           LETS PROVIDERS FOCUS ON WHAT MATTERS — PATIENT CARE.
         </p>
       </div>
@@ -192,12 +192,12 @@ function LabView({ isVisible }: { isVisible: boolean }) {
 
           <div className="mt-8 flex gap-8 text-sm uppercase md:text-lg">
             <div>
-              EST. 2024
+              EST. 2026
               <br />
               SAN FRANCISCO
             </div>
             <div>
-              FULL-STACK AI
+              END-TO-END AI
               <br />
               HEALTHCARE BILLING
             </div>
